@@ -1,0 +1,6 @@
+[submodule "third_party/fmt"]
+	path = third_party/fmt
+	url = https://github.com/fmtlib/fmt
+[submodule "third_party/rpclib"]
+	path = third_party/rpclib
+	url = https://github.com/rpclib/rpclib.git
